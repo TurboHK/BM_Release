@@ -1,4 +1,16 @@
+
 {
-  "latestVersion": "0.1.1",
-  "downloadUrl": "https://github.com/TurboHK/BM_Release/blob/main/pub/apk/pub-release_0.1.1.apk"
+  {
+  "dev": {
+    "versionCode": 2,
+    "versionName": "0.1.1-dev",
+    "downloadUrl": "https://github.com/TurboHK/BM_Release/blob/main/pub/apk/pub-dev_0.1.1.apk"
+  },
+  "release": {
+    "versionCode": 1,
+    "versionName": "0.1.1",
+    "downloadUrl": "https://github.com/TurboHK/BM_Release/blob/main/pub/apk/pub-release_0.1.1.apk"
+  }
+}
+
 }
