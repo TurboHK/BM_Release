@@ -1,8 +1,8 @@
 {
     "dev": {
-        "versionCode": 10001,
-        "versionName": "0.1.1-dev",
-        "downloadUrl": "https://github.com/TurboHK/BM_Release/blob/main/pub/apk/pub-dev_0.1.1.apk"
+        "versionCode": 10002,
+        "versionName": "0.1.1.1-dev",
+        "downloadUrl": "https://github.com/TurboHK/BM_Release/blob/main/pub/apk/pub-dev_0.1.1.1.apk"
     },
 
     "prod": {
