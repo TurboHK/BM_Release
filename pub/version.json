@@ -1,14 +1,13 @@
-
 {
   {
   "dev": {
     "versionCode": 2,
     "versionName": "0.1.1-dev",
-    "downloadUrl": "https://github.com/TurboHK/BM_Release/blob/main/pub/apk/pub-dev_0.1.1.apk"
+    "downloadUrl": "https://raw.githubusercontent.com/TurboHK/BM_Release/refs/heads/main/pub/apk/pub-dev_0.1.1.apk"
   },
   "release": {
     "versionCode": 1,
     "versionName": "0.1.1",
-    "downloadUrl": "https://github.com/TurboHK/BM_Release/blob/main/pub/apk/pub-release_0.1.1.apk"
+    "downloadUrl": "https://raw.githubusercontent.com/TurboHK/BM_Release/refs/heads/main/pub/apk/pub-release_0.1.1.apk"
   }
 }
