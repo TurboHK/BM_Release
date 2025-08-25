@@ -6,8 +6,8 @@
     },
 
     "prod": {
-        "versionCode": 2,
-        "versionName": "0.1.2",
-        "downloadUrl": "https://github.com/TurboHK/BM_Release/blob/main/pub/apk/pub-release_0.1.2.apk"
+        "versionCode": 4,
+        "versionName": "0.1.3",
+        "downloadUrl": "https://github.com/TurboHK/BM_Release/blob/main/pub/apk/pub-release_0.1.3.apk"
     }
 }
